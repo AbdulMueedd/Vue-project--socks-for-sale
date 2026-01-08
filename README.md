@@ -21,10 +21,9 @@ A small Vue 3 project that simulates a basic product page for socks. Users can s
   - Display submitted reviews in a list
 
 
-Getting Started
-1) Install dependencies
+Project Setup
+
 npm install
-2) Run the dev server
+Compile and Hot-Reload for Development
+
 npm run dev
-3) Build for production
-npm run build
